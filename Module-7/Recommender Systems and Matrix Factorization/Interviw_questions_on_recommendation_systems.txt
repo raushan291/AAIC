@@ -1,0 +1,5 @@
+ Self Learning:
+How would you implement a recommendation system for our company’s users?(https://www.infoworld.com/article/3241852/machine-learning/how-to-implement-a-recommender-system.html)
+How would you approach the “Netflix Prize” competition?(Refer http://blog.echen.me/2011/10/24/winning-the-netflix-prize-a-summary/)
+‘People who bought this, also bought…’ recommendations seen on amazon is a result of which algorithm?(Please refer Apparel recommendation system case study,Refer:https://measuringu.com/affinity-analysis/)
+**If you face any new interview questions please put in comments ,we will work it out**
