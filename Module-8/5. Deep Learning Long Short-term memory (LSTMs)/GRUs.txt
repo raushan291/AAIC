@@ -1,0 +1,1 @@
+Refer: https://www.slideshare.net/hytae/recent-progress-in-rnn-and-nlp-63762080 Refer: https://towardsdatascience.com/understanding-gru-networks-2ef37df6c9be  

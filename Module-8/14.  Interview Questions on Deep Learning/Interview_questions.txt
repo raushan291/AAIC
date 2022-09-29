@@ -1,0 +1,32 @@
+Basics of Natural Language Processing(NLP):
+1.Explain about Bag of Words?(https://www.appliedaicourse.com/course/applied-ai-course-online/lessons/bag-of-words-bow/)
+Explain about Text Preprocessing: Stemming, Stop-word removal, Tokenization, Lemmatization.(https://www.appliedaicourse.com/course/applied-ai-course-online/lessons/text-preprocessing-stemming-stop-word-removal-tokenization-lemmatization/)
+Explain about uni-gram, bi-gram, n-grams.?(https://www.appliedaicourse.com/course/applied-ai-course-online/lessons/uni-gram-bi-gram-n-grams/)
+What is tf-idf (term frequency- inverse document frequency)(https://www.appliedaicourse.com/course/applied-ai-course-online/lessons/tf-idf-term-frequency-inverse-document-frequency/)
+Why use log in IDF?(https://www.appliedaicourse.com/course/applied-ai-course-online/lessons/why-use-log-in-idf/)
+Explain about Word2Vec.?(https://www.appliedaicourse.com/course/applied-ai-course-online/lessons/word2vec/)
+Explain about Avg-Word2Vec, tf-idf weighted Word2Vec?(https://www.appliedaicourse.com/course/applied-ai-course-online/lessons/avg-word2vec-tf-idf-weighted-word2vec/)
+Explain about Multi-Layered Perceptron (MLP)?(https://www.appliedaicourse.com/course/applied-ai-course-online/lessons/multi-layered-perceptron-mlp/ )
+How to train a single-neuron model?(https://www.appliedaicourse.com/course/applied-ai-course-online/lessons/training-a-single-neuron-model/)
+How to Train an MLP using Chain rule ?(https://www.appliedaicourse.com/course/applied-ai-course-online/lessons/training-an-mlp-2/)
+How to Train an MLP using Memoization?(https://www.appliedaicourse.com/course/applied-ai-course-online/lessons/training-an-mlp/)
+ 
+Explain about Backpropagation algorithm?(https://www.appliedaicourse.com/course/applied-ai-course-online/lessons/backpropagation/)
+Describe about Vanishing and Exploding Gradient problem?(https://www.appliedaicourse.com/course/applied-ai-course-online/lessons/vanishing-gradient-problem-2/)
+Explain about Bias-Variance tradeoff in neural Networks?(https://www.appliedaicourse.com/course/applied-ai-course-online/lessons/bias-variance-tradeoff-23/)
+ 
+  Deep Learning:
+What is sampled softmax?
+Why is it difficult to train a RNN with SGD?
+How do you tackle the problem of exploding gradients? (By gradient clipping)
+What is the problem of vanishing gradients? (RNN doesn't tend to remember much things from the past)
+How do you tackle the problem of vanishing gradients? (By using LSTM)
+Explain the memory cell of a LSTM. (LSTM allows forgetting of data and using long memory when appropriate.)
+What type of regularization do one use in LSTM?
+What is the problem with sigmoid during backpropagation? (Very small, between 0.25 and zero.)
+What is transfer learning?
+What is backpropagation through time? (BPTT)
+What is the difference between LSTM and GRU?
+Explain Gradient Clipping.
+Adam and RMSProp adjust the size of gradients based on previously seen gradients. Do they inherently perform gradient clipping? If no, why?
+External sources https://www.analyticsvidhya.com/blog/2017/01/must-know-questions-deep-learning/
